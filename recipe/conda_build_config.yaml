@@ -4,3 +4,4 @@ channel_targets:
   - nsls2forge main
 python:
   - 3.6
+  - 3.7
